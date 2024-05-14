@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Alex\Desktop\paw recuperare\sem_11_sdd\Source.c(28,40): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Alex\Desktop\paw recuperare\sem_11_sdd\Source.c(29,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Alex\Desktop\paw recuperare\sem_11_sdd\Source.c(65,14): warning C4013: 'calculGradDeEchilibru' undefined; assuming extern returning int
+C:\Users\Alex\Desktop\paw recuperare\sem_11_sdd\Source.c(202): warning C4715: 'calculGradDeEchilibru': not all control paths return a value
+  sem_11_sdd.vcxproj -> C:\Users\Alex\Desktop\paw recuperare\sem_11_sdd\x64\Debug\sem_11_sdd.exe
