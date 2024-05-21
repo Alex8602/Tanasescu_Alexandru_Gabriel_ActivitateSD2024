@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Alex\Desktop\sdd recupearare\seminar_12_sdd\Source.c(85,47): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Alex\Desktop\sdd recupearare\seminar_12_sdd\Source.c(86,2): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+  seminar_12_sdd.vcxproj -> C:\Users\Alex\Desktop\sdd recupearare\seminar_12_sdd\x64\Debug\seminar_12_sdd.exe
